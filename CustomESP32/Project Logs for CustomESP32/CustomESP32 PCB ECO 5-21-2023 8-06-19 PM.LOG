@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R15-2
+Change Component Footprint: Designator=R15 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Comment : Designator=R15 Old Comment=2K(5%) New Comment=1K(5%)
+Added Pin To Net: NetName=NetC12_2 Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-37
+Added Pin To Net: NetName=NetR15_2 Pin=U4-3
+Added Net: Name=NetR15_2

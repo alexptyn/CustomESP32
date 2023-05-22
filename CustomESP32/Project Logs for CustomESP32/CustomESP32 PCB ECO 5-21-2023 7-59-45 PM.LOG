@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=3v3 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R2-1
+Removed Pin From Net: NetName=NetDS1_1 Pin=R2-2
+Removed Pin From Net: NetName=3v3 Pin=R3-1
+Removed Pin From Net: NetName=NetDS2_1 Pin=R3-2
+Removed Pin From Net: NetName=NetR4_1 Pin=R5-1
+Removed Pin From Net: NetName=NetC5_2 Pin=R5-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R8-1
+Removed Pin From Net: NetName=3v3 Pin=R8-2
+Removed Pin From Net: NetName=NetC9_2 Pin=R11-1
+Removed Pin From Net: NetName=3v3 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-25
+Removed Pin From Net: NetName=NetR4_2 Pin=U4-15
+Change Component Footprint: Designator=R1 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R3 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R4 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R5 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R6 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R7 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R8 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R9 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R10 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R11 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R12 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R13 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R14 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R16 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Comment : Designator=R13 Old Comment=2K(5%) New Comment=1K(5%)
+Change Component Comment : Designator=R16 Old Comment=10k New Comment=10K(5%)(NC)
+Change Component Comment : Designator=R1 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R2 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R3 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R4 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R5 Old Comment=R0805 New Comment=R0603
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=3v3 Pin=R1-2
+Added Pin To Net: NetName=NetDS1_1 Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=NetDS2_1 Pin=R3-1
+Added Pin To Net: NetName=3v3 Pin=R3-2
+Added Pin To Net: NetName=NetC5_2 Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Pin To Net: NetName=3v3 Pin=R8-1
+Added Pin To Net: NetName=NetC6_2 Pin=R8-2
+Added Pin To Net: NetName=NetC9_2 Pin=R11-2
+Added Pin To Net: NetName=3v3 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetC12_2 Pin=R16-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-25
+Added Pin To Net: NetName=NetR4_1 Pin=U4-15
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R14-2
+Added Pin To Net: NetName=NetR11_1 Pin=U5-8
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-9
+Added Net: Name=NetR13_2
