@@ -1,0 +1,63 @@
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-15
+Add Pin To Net: Unknown Pin: Pin J5-17
+Change Net Name : Old Net Name=NetJ5_A3 New Net Name=NetJ5_3
+Added Pin To Net: NetName=NetJ4_3 Pin=R15-2
+Added Pin To Net: NetName=NetJ4_3 Pin=U1-37
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=U1-36
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ4_5 Pin=R7-1
+Added Pin To Net: NetName=NetJ4_5 Pin=U1-35
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_6 Pin=R9-1
+Added Pin To Net: NetName=NetJ4_6 Pin=U1-34
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetJ4_7 Pin=U1-33
+Added Net: Name=NetJ4_7
+Added Pin To Net: NetName=NetJ4_9 Pin=U1-31
+Added Net: Name=NetJ4_9
+Added Pin To Net: NetName=NetJ4_11 Pin=U1-29
+Added Net: Name=NetJ4_11
+Added Pin To Net: NetName=NetJ4_12 Pin=U1-28
+Added Net: Name=NetJ4_12
+Added Pin To Net: NetName=NetJ4_13 Pin=U1-27
+Added Net: Name=NetJ4_13
+Added Pin To Net: NetName=NetJ4_14 Pin=U1-26
+Added Net: Name=NetJ4_14
+Added Pin To Net: NetName=NetJ4_15 Pin=R4-1
+Added Net: Name=NetJ4_15
+Added Pin To Net: NetName=NetJ4_16 Pin=U1-24
+Added Net: Name=NetJ4_16
+Added Pin To Net: NetName=NetJ4_17 Pin=U1-23
+Added Net: Name=NetJ4_17
+Added Pin To Net: NetName=NetJ5_4 Pin=U1-4
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_5 Pin=U1-5
+Added Net: Name=NetJ5_5
+Added Pin To Net: NetName=NetJ5_6 Pin=U1-6
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=NetJ5_7 Pin=U1-7
+Added Net: Name=NetJ5_7
+Added Pin To Net: NetName=NetJ5_8 Pin=U1-8
+Added Net: Name=NetJ5_8
+Added Pin To Net: NetName=NetJ5_9 Pin=U1-9
+Added Net: Name=NetJ5_9
+Added Pin To Net: NetName=NetJ5_10 Pin=U1-10
+Added Net: Name=NetJ5_10
+Added Pin To Net: NetName=NetJ5_11 Pin=U1-11
+Added Net: Name=NetJ5_11
+Added Pin To Net: NetName=NetJ5_12 Pin=U1-12
+Added Net: Name=NetJ5_12
+Added Pin To Net: NetName=NetJ5_13 Pin=U1-13
+Added Net: Name=NetJ5_13
+Added Pin To Net: NetName=NetJ5_14 Pin=U1-14
+Added Net: Name=NetJ5_14
+Added Pin To Net: NetName=NetJ5_16 Pin=U1-16
+Added Net: Name=NetJ5_16

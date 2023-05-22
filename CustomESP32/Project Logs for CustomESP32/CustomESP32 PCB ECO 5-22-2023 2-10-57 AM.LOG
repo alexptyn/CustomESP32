@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Change Comment: Unknown Component : SW2
+Change Managed Component Library Link: Component "SW2" not found
+Change component parameters: Component "SW2" not found
+Add Pin To Net: Unknown Pin: Pin SW2-1

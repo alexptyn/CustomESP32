@@ -1,0 +1,44 @@
+Added Component: Designator=J4(22284170)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J5(22284170)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J4-A1
+Add Pin To Net: Unknown Pin: Pin J4-A2
+Add Pin To Net: Unknown Pin: Pin J4-A3
+Add Pin To Net: Unknown Pin: Pin J4-A4
+Add Pin To Net: Unknown Pin: Pin J4-A5
+Add Pin To Net: Unknown Pin: Pin J4-A6
+Add Pin To Net: Unknown Pin: Pin J4-A7
+Add Pin To Net: Unknown Pin: Pin J4-A8
+Add Pin To Net: Unknown Pin: Pin J4-A9
+Add Pin To Net: Unknown Pin: Pin J4-A10
+Add Pin To Net: Unknown Pin: Pin J4-A11
+Add Pin To Net: Unknown Pin: Pin J4-A12
+Add Pin To Net: Unknown Pin: Pin J4-A13
+Add Pin To Net: Unknown Pin: Pin J4-A14
+Add Pin To Net: Unknown Pin: Pin J4-A15
+Add Pin To Net: Unknown Pin: Pin J4-A16
+Add Pin To Net: Unknown Pin: Pin J4-A17
+Add Pin To Net: Unknown Pin: Pin J5-A1
+Add Pin To Net: Unknown Pin: Pin J5-A2
+Add Pin To Net: Unknown Pin: Pin J5-A3
+Add Pin To Net: Unknown Pin: Pin J5-A4
+Add Pin To Net: Unknown Pin: Pin J5-A5
+Add Pin To Net: Unknown Pin: Pin J5-A6
+Add Pin To Net: Unknown Pin: Pin J5-A7
+Add Pin To Net: Unknown Pin: Pin J5-A8
+Add Pin To Net: Unknown Pin: Pin J5-A9
+Add Pin To Net: Unknown Pin: Pin J5-A10
+Add Pin To Net: Unknown Pin: Pin J5-A11
+Add Pin To Net: Unknown Pin: Pin J5-A12
+Add Pin To Net: Unknown Pin: Pin J5-A13
+Add Pin To Net: Unknown Pin: Pin J5-A14
+Add Pin To Net: Unknown Pin: Pin J5-A15
+Add Pin To Net: Unknown Pin: Pin J5-A16
+Add Pin To Net: Unknown Pin: Pin J5-A17
+Added Member To Class: ClassName=CustomESP32 Member=Component J4 22284170
+Added Member To Class: ClassName=CustomESP32 Member=Component J5 22284170

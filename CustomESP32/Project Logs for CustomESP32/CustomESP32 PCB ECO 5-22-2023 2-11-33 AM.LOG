@@ -1,0 +1,7 @@
+Added Component: Designator=SW2(TL1107AF260WQ)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=NetC6_2 Pin=SW2-2
+Added Member To Class: ClassName=CustomESP32 Member=Component SW2 TL1107AF260WQ

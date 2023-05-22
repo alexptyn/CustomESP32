@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetJ5_3 Pin=C6-2
+Added Pin To Net: NetName=NetJ5_3 Pin=R8-2
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=NetC6_2
+Added Member To Class: ClassName=CustomESP32 Member=Component R5 R0603

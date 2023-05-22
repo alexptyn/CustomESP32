@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=3v3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=3v3 Pin=U3-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-15
+Removed Pin From Net: NetName=3v3 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-8
+Removed Pin From Net: NetName=NetDS2_2 Pin=U4-10
+Removed Member From Class: ClassName=CustomESP32 Member=U3
+Removed Member From Class: ClassName=CustomESP32 Member=U4
+Added Pin To Net: NetName=3v3 Pin=C13-2
+Add Pin To Net: Unknown Pin: Pin J4-A1
+Add Pin To Net: Unknown Pin: Pin J4-A2
+Add Pin To Net: Unknown Pin: Pin J4-A8
+Add Pin To Net: Unknown Pin: Pin J4-A10
+Add Pin To Net: Unknown Pin: Pin J5-A1
+Add Pin To Net: Unknown Pin: Pin J5-A2
+Add Pin To Net: Unknown Pin: Pin J5-A3
+Add Pin To Net: Unknown Pin: Pin J5-A15
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetJ5_A3
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=J2-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetJ4_A3 Pin=R15-2
+Added Pin To Net: NetName=NetJ4_A3 Pin=U1-37
+Added Net: Name=NetJ4_A3
+Added Pin To Net: NetName=NetJ4_A4 Pin=U1-36
+Added Net: Name=NetJ4_A4
+Added Pin To Net: NetName=NetJ4_A5 Pin=R7-1
+Added Pin To Net: NetName=NetJ4_A5 Pin=U1-35
+Added Net: Name=NetJ4_A5
+Added Pin To Net: NetName=NetJ4_A6 Pin=R9-1
+Added Pin To Net: NetName=NetJ4_A6 Pin=U1-34
+Added Net: Name=NetJ4_A6
+Added Pin To Net: NetName=NetJ4_A7 Pin=U1-33
+Added Net: Name=NetJ4_A7
+Added Pin To Net: NetName=NetJ4_A9 Pin=U1-31
+Added Net: Name=NetJ4_A9
+Added Pin To Net: NetName=NetJ4_A11 Pin=U1-29
+Added Net: Name=NetJ4_A11
+Added Pin To Net: NetName=NetJ4_A12 Pin=U1-28
+Added Net: Name=NetJ4_A12
+Added Pin To Net: NetName=NetJ4_A13 Pin=U1-27
+Added Net: Name=NetJ4_A13
+Added Pin To Net: NetName=NetJ4_A14 Pin=U1-26
+Added Net: Name=NetJ4_A14
+Added Pin To Net: NetName=NetJ4_A15 Pin=R4-1
+Added Net: Name=NetJ4_A15
+Added Pin To Net: NetName=NetJ4_A16 Pin=U1-24
+Added Net: Name=NetJ4_A16
+Added Pin To Net: NetName=NetJ4_A17 Pin=U1-23
+Added Net: Name=NetJ4_A17
+Added Pin To Net: NetName=NetJ5_A4 Pin=U1-4
+Added Net: Name=NetJ5_A4
+Added Pin To Net: NetName=NetJ5_A5 Pin=U1-5
+Added Net: Name=NetJ5_A5
+Added Pin To Net: NetName=NetJ5_A6 Pin=U1-6
+Added Net: Name=NetJ5_A6
+Added Pin To Net: NetName=NetJ5_A7 Pin=U1-7
+Added Net: Name=NetJ5_A7
+Added Pin To Net: NetName=NetJ5_A8 Pin=U1-8
+Added Net: Name=NetJ5_A8
+Added Pin To Net: NetName=NetJ5_A9 Pin=U1-9
+Added Net: Name=NetJ5_A9
+Added Pin To Net: NetName=NetJ5_A10 Pin=U1-10
+Added Net: Name=NetJ5_A10
+Added Pin To Net: NetName=NetJ5_A11 Pin=U1-11
+Added Net: Name=NetJ5_A11
+Added Pin To Net: NetName=NetJ5_A12 Pin=U1-12
+Added Net: Name=NetJ5_A12
+Added Pin To Net: NetName=NetJ5_A13 Pin=U1-13
+Added Net: Name=NetJ5_A13
+Added Pin To Net: NetName=NetJ5_A14 Pin=U1-14
+Added Net: Name=NetJ5_A14
+Added Pin To Net: NetName=NetJ5_A16 Pin=U1-16
+Added Net: Name=NetJ5_A16
+Add Class Member: Failed to add class member : Component J4 22284170
+Add Class Member: Failed to add class member : Component J5 22284170
