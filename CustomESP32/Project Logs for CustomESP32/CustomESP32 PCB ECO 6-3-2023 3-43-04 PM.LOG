@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R13 Old Footprint=RES_0603 New Footprint=RES_0402
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_0603"; UniqueID = "\EIJKVMYL" ("\EIJKVMYL")
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"

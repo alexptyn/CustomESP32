@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAP_0603 New Footprint=CAP_0402
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_0603"; UniqueID = "\ASCHRYYW" ("\ASCHRYYW")

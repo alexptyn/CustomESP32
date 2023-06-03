@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R11 Old Footprint=RES_0603 New Footprint=RES_0402
+Change Component Footprint: Designator=R14 Old Footprint=RES_0603 New Footprint=RES_0402
+Change Component Designator: OldDesignator=  NewDesignator=C12
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES_0603"; UniqueID = "\JEUZDTCJ" ("\JEUZDTCJ")
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES_0603"; UniqueID = "\WMEILCBK" ("\WMEILCBK")
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CustomESP32 Member=Component C12 0.1uF/50V(10%)
