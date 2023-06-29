@@ -1,4 +1,4 @@
-# Custom ESP32 (In Progress)
+# Custom ESP32 (Done)
 
 <h1 align="center"><b> Welcome </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -13,4 +13,4 @@ Following [this video tutorial](https://www.youtube.com/watch?v=S_p0YV-JlfU&t=14
 
 ## Progress
 - [x] Schematic: 05/21/2023
-- [ ] PCB
+- [x] PCB: 06/28/2023
