@@ -82,6 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQXCHSTN
 
+[GeneratedDocument1]
+DocumentPath=C:\Users\PHAN_T~1\AppData\Local\Temp\Project Outputs for CustomESP32\Design Rule Check - CustomESP32.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CustomESP32\Design Rule Check - CustomESP32.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
